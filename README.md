@@ -4,7 +4,7 @@
 - 💞️ I’m looking to contribute to projects in artificial intelligence and cybersecurity
 - 📫 How to reach me: ca.povedar1@uniandes.edu.co
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am a pizza lover and can name almost every topping combination
+- ⚡ Fun fact: I am a pizza lover 
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
