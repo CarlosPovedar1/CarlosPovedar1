@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning advanced machine learning techniques and ethical hacking
 - 💞️ I’m looking to contribute to projects in artificial intelligence and cybersecurity
 - 📫 How to reach me: ca.povedar1@uniandes.edu.co
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a pizza lover 
 <div id="user-content-toc">
   <ul align="center">
